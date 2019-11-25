@@ -24,7 +24,7 @@
   "dependencies": {
     "request": "2.27.*",
     "lodash": "2.2.*",
-    "xml2js": "0.2.8"
+    "xml2js": "0.4.22"
   },
   "devDependencies": {
     "should": "2.1.*",
