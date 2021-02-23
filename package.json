@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "request": "2.27.*",
-    "lodash": "2.2.*",
+    "lodash": "4.17.21",
     "xml2js": "0.2.8"
   },
   "devDependencies": {
