@@ -28,6 +28,6 @@
   },
   "devDependencies": {
     "should": "2.1.*",
-    "mocha": "1.14.0"
+    "mocha": "6.0.0"
   }
 }
